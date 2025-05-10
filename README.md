@@ -78,7 +78,7 @@
 
 ---
 
-### 📜 Certificate
+### 📜 Certificates
 
 [![View My Certificate](https://img.shields.io/badge/View%20Certificate-00bfbf?style=for-the-badge)](https://www.credential.net/c4e52418-f723-41f6-b043-d1fd7818a164)
 
