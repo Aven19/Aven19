@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antônio+Junior!+👋🏻;I+am+a+Systems+Analysis+and+Development+student+at+IFRN;I+am+a+software+developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Hello,+I%27m+Aven+Mathias!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+a+Software+Engineer+(SDE-2)+at+Bombay+Softwares;I+specialize+in+Flask,+React,+AWS,+and+Laravel;Passionate+about+building+scalable+web+apps;Welcome+to+my+GitHub!+%F0%9F%91%80)
 
 <div align="center">
   <a href="https://github.com/afcj8">
