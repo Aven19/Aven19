@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Hello,+I%27m+Aven+Mathias!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+a+Software+Engineer+at+Bombay+Softwares;I+specialize+in+Flask,+React,+AWS,+and+Laravel;Passionate+about+building+scalable+web+apps;Welcome+to+my+GitHub!+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Hello,+I%27m+Aven+Mathias!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+a+Software+Engineer;I+specialize+in+Flask,+React,+AWS,+and+Laravel;Passionate+about+building+scalable+web+apps;Welcome+to+my+GitHub!+%F0%9F%91%80)](https://git.io/typing-svg)
 
 <!-- <div align="center">
   <a href="https://github.com/Aven19">
@@ -77,6 +77,13 @@
 - 🔹 [**Cornflex**](https://github.com/Aven19/cornflex): Netflix clone built with React + Firebase  
 
 ---
+
+### 📜 Certificates
+
+<!-- [![View My Certificate](https://img.shields.io/badge/View%20Certificate-00bfbf?style=for-the-badge)](https://www.credential.net/c4e52418-f723-41f6-b043-d1fd7818a164) -->
+<iframe src="https://www.credential.net/c4e52418-f723-41f6-b043-d1fd7818a164" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+
+
 
 ### 📫 Connect with Me
 
