@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 I'm currently a **Software Engineer (SDE-2) at Bombay Softwares**
+- 🚀 I'm currently a **Software Engineer (SDE-2)**
 - 💡 I build full-stack web applications and scalable e-commerce platforms
 - 🌐 Experienced with **Fast API, Flask, Laravel, React, Next.js, AWS, Docker and Terraform**
 - 🛠️ Developed integrations with **Amazon SP API, Shopify, and custom CMS systems**
