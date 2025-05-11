@@ -65,13 +65,10 @@
 **Big Data Ecosystem**  
 ![Hadoop](https://img.shields.io/badge/Hadoop-0D1117?style=for-the-badge&logo=apachehadoop)
 ![Hive](https://img.shields.io/badge/Hive-0D1117?style=for-the-badge&logo=apachehive)
+![Sqoop](https://img.shields.io/badge/Sqoop-0D1117?style=for-the-badge&logo=apache&logoColor=white)
+![HBase](https://img.shields.io/badge/HBase-0D1117?style=for-the-badge&logo=apache&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark)
 ![Redshift](https://img.shields.io/badge/Redshift-0D1117?style=for-the-badge&logo=amazonredshift)
-
-<p align="left">
-  <img src="https://hbase.apache.org/images/hbase_logo.png" height="12"/> <b>HBase</b>&nbsp;&nbsp;
-  <img src="https://sqoop.apache.org/images/sqoop-logo.png" height="12"/> <b>Sqoop</b>
-</p>
 
 ---
 
