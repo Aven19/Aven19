@@ -54,21 +54,30 @@
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 **Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws)
 ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform)
 
 **Big Data Ecosystem**  
-![Hadoop](https://img.shields.io/badge/Hadoop-0D1117?style=for-the-badge&logo=apachehadoop)
+<-- ![Hadoop](https://img.shields.io/badge/Hadoop-0D1117?style=for-the-badge&logo=apachehadoop)
 ![Sqoop](https://img.shields.io/badge/Sqoop-0D1117?style=for-the-badge&logo=apache&logoColor=white)
 ![Flume](https://img.shields.io/badge/Flume-0D1117?style=for-the-badge&logo=apache&logoColor=white)
 ![HBase](https://img.shields.io/badge/HBase-0D1117?style=for-the-badge&logo=apache&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-0D1117?style=for-the-badge&logo=apachehive)
 ![Spark](https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark)
+![Redshift](https://img.shields.io/badge/Redshift-0D1117?style=for-the-badge&logo=amazonredshift) -->
+![Hadoop](https://img.shields.io/badge/Hadoop-0D1117?style=for-the-badge&logo=apachehadoop)
+![Hive](https://img.shields.io/badge/Hive-0D1117?style=for-the-badge&logo=apachehive)
+![Spark](https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark)
 ![Redshift](https://img.shields.io/badge/Redshift-0D1117?style=for-the-badge&logo=amazonredshift)
-
+<!-- Custom logos for tools without official shields.io support -->
+<p align="left">
+  <img src="https://flume.apache.org/images/flume-logo.png" height="28"/> <b>Flume</b>&nbsp;&nbsp;
+  <img src="https://hbase.apache.org/images/hbase_logo.png" height="28"/> <b>HBase</b>&nbsp;&nbsp;
+  <img src="https://sqoop.apache.org/images/sqoop-logo.png" height="28"/> <b>Sqoop</b>
+</p>
 
 ---
 
