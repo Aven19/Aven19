@@ -74,7 +74,7 @@
 
 ### 🚀 Key Projects
 
-- 🔹 [**Cornflex**](https://github.com/Aven19/cornflex): Netflix clone built with React + Firebase  
+- 🔹 [**Cornflex**](https://cornflex.vercel.app/): Netflix clone built with React + Firebase  
 
 ---
 
