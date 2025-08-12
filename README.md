@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Hello,+I%27m+Aven+Mathias!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+a+Software+Engineer;I+specialize+in+Flask,+React,+AWS,+and+Laravel;Passionate+about+building+scalable+web+apps;Welcome+to+my+GitHub!+%F0%9F%91%80)](https://git.io/typing-svg)-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Aven+Mathias!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Engineer;Check+out+my+Portfolio+🌐;...)](https://www.avenmathias.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Hello,+I%27m+Aven+Mathias!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+a+Software+Engineer;I+specialize+in+Flask,+React,+AWS,+and+Laravel;Passionate+about+building+scalable+web+apps;Welcome+to+my+GitHub!+%F0%9F%91%80)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Aven+Mathias!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Engineer;Check+out+my+Portfolio+🌐;...)](https://www.avenmathias.com/)-->
 
 <!-- <div align="center">
   <a href="https://github.com/Aven19">
@@ -13,7 +13,8 @@
 ---
 
 ### 🧑‍💻 About Me
-[![Website](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00bfbf)](https://www.avenmathias.com/)
+<!--[![Website](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00bfbf)](https://www.avenmathias.com/)-->
+
 
 - 🚀 I'm currently a **Software Engineer (SDE-2)**
 - 💡 I build full-stack web applications and scalable e-commerce platforms
@@ -98,9 +99,9 @@
   <a href="https://www.linkedin.com/in/aven-mathias" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.avenmathias.com/" target="_blank">
+  <!--<a href="https://www.avenmathias.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00bfbf">
-  </a>
+  </a>-->
   <a href="https://www.instagram.com/_d3ndo/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
